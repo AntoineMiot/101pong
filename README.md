@@ -12,4 +12,3 @@ Your program must print:
 • The velocity vector of the ball,
 • The coordinates of the ball after a given amount of time,
 • The angle at which the ball will hit the bat (if it will indeed hit the bat, at any time from t=0).
->>>>>>> bb8c13f70e2d7ba00a9cc0e27e564ea86c10e6e9
