@@ -1,6 +1,4 @@
 # 101pong
-<<<<<<< HEAD
-=======
 
 Epitech project - Module Mathematique
 
